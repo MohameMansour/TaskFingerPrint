@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TaskFingerPrint</string>
+    <string name="login_with_finger_print">Login with Finger Print</string>
+    <string name="note_title">Note Title</string>
+    <string name="time">Time</string>
+    <string name="apply">Apply</string>
+    <string name="enter_session_title">Enter Session Title</string>
+    <string name="enter_session_description">Enter Session Description</string>
+    <string name="click_on_mic_to_speak">Click on Mic to speak</string>
+    <string name="output_will_appear_here">Output will appear here</string>
 </resources>
